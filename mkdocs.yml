@@ -1,0 +1,15 @@
+site_name: "Valor Esports: Miscellaneous Guides"
+markdown_extensions:
+  - toc:
+      permalink: ⚓︎
+  - admonition
+  - pymdownx.highlight:
+      use_pygments: true
+theme:
+  name: material
+  features:
+    - instant
+  palette:
+    primary: white
+    accent: blue
+copyright: "&copy; 2021, Valor Esports Pty Ltd ACN 648 832 080. All rights reserved."
