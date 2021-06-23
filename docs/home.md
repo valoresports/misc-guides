@@ -6,4 +6,4 @@ For more information please visit [valoresports.com](https://valoresports.com/) 
 
 ## License
 
-&copy; [Valor Esports](https://valoresports.com/) 2021, all rights reserved.
+&copy; [Valor Esports](https://valoresports.com/) Pty Ltd [ABN 94 648 832 080](https://abr.business.gov.au/ABN/View?abn=94648832080) 2021, all rights reserved.
