@@ -1,4 +1,5 @@
 site_name: "Valor Esports: Miscellaneous Guides"
+site_url: https://valoresports.github.io/misc-guides/
 markdown_extensions:
   - toc:
       permalink: ⚓︎
